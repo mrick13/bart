@@ -13,8 +13,8 @@ header {
   box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px 0 rgba(0, 0, 0, 0.14),
     0 1px 10px 0 rgba(0, 0, 0, 0.12);
   height: 50px;
-  background-color: #da0f00 !important;
-  border-color: #da0f00 !important;
+  background-color:black!important;
+  border-color: black !important;
   color: white;
   font-family: "Arial";
 }
@@ -59,8 +59,8 @@ footer {
 
 .btn-danger {
   color: #fff;
-  background-color: #da0f00;
-  border-color: #da0f00;
+  background-color: black;
+  border-color: black;
 }
 
 .form-control {
@@ -133,7 +133,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #da0f00;
+  background-color: black;
   color: white;
   text-align: center;
 }

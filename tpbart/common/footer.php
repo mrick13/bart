@@ -1,6 +1,5 @@
 <footer> 
-    <p>TP BART - Par Lucas BIANCIOTTO</p>
-    <a href="index.php?page=about"><p>A propos</p>
+    <p>fait par BAUD Aymeric </p>
 </footer>
 </body>
 
